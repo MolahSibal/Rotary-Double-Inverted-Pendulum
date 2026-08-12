@@ -1,0 +1,765 @@
+{VERSION 6 0 "IBM INTEL NT" "6.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Times" 0 1 0 0 0 0 0 0 2 0 0 0 0 
+0 0 1 }{CSTYLE "Hyperlink" -1 17 "" 0 1 0 128 128 1 2 0 1 0 0 0 0 0 0 
+1 }{CSTYLE "2D Comment" 2 18 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }
+{CSTYLE "2D Output" 2 20 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 1 }
+{CSTYLE "Help Normal" -1 30 "Times" 1 12 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 256 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+257 "" 1 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 258 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 259 "" 0 1 0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 }{CSTYLE "" -1 260 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 261 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+262 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 263 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 264 "" 0 1 0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 }{CSTYLE "" -1 265 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 266 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+267 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 268 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 269 "" 0 1 0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 }{CSTYLE "" -1 270 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 271 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+272 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 273 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 274 "" 0 1 0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 }{CSTYLE "" -1 275 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 276 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+277 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 278 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 279 "" 1 20 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 }{CSTYLE "" -1 280 "" 1 14 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 281 "" 1 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+282 "" 1 14 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 283 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 284 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 0 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 1 1 1 }1 1 0 0 0 0 1 0 1 0 2 2 0 1 }{PSTYLE "Heading 1
+" -1 3 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 1 1 1 }1 
+1 0 0 8 4 1 0 1 0 2 2 0 1 }{PSTYLE "Heading 2" -1 4 1 {CSTYLE "" -1 
+-1 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 1 1 1 1 }1 1 0 0 8 2 1 0 1 0 2 2 
+0 1 }{PSTYLE "Text Output" -1 6 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 
+255 1 2 2 2 2 2 1 2 1 3 1 }1 1 0 0 0 0 1 0 1 0 2 2 0 1 }{PSTYLE "Maple
+ Output" -1 11 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 
+1 1 1 }3 3 0 0 0 0 1 0 1 0 2 2 0 1 }{PSTYLE "Maple Output" -1 12 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 1 1 1 }1 3 0 0 0 
+0 1 0 1 0 2 2 0 1 }{PSTYLE "Bullet Item" -1 15 1 {CSTYLE "" -1 -1 "Tim
+es" 1 12 0 0 0 1 2 2 2 2 2 2 1 1 1 1 }1 1 0 0 3 3 1 0 1 0 2 2 15 2 }
+{PSTYLE "Title" -1 18 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 1 2 
+2 2 1 1 1 1 }3 1 0 0 12 12 1 0 1 0 2 2 19 1 }{PSTYLE "Author" -1 19 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 1 1 1 }3 1 0 0 8 
+8 1 0 1 0 2 2 0 1 }{PSTYLE "Normal" -1 256 1 {CSTYLE "" -1 -1 "Times" 
+1 10 0 0 0 1 2 2 2 2 2 2 1 1 1 1 }3 1 0 0 0 0 1 0 1 0 2 2 0 1 }
+{PSTYLE "Author" -1 257 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 2 2 
+2 2 2 1 1 1 1 }3 1 0 0 8 8 1 0 1 0 2 2 0 1 }{PSTYLE "Normal" -1 258 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 255 0 1 2 2 2 2 2 2 1 1 1 1 }3 1 0 0 
+0 0 1 0 1 0 2 2 0 1 }{PSTYLE "Normal" -1 259 1 {CSTYLE "" -1 -1 "Times
+" 1 12 0 255 0 1 2 2 2 2 2 2 1 1 1 1 }1 1 0 0 0 0 1 0 1 0 2 2 0 1 }}
+{SECT 0 {EXCHG {PARA 18 "" 0 "" {TEXT 279 69 "Dynamic Equations for th
+e Rotary Double Inverted Pendulum (DBPEN-ROT)" }}{PARA 257 "" 0 "" 
+{TEXT 256 1 "\251" }{TEXT -1 29 " 2012 Quanser Consulting Inc." }}
+{PARA 19 "" 0 "" {TEXT 257 5 "URL: " }{URLLINK 17 "http://www.quanser.
+com" 4 "http://www.quanser.com" "" }}{PARA 256 "" 0 "" {TEXT -1 121 "N
+OTE: This worksheet presents the general dynamic equations modelling a
+ Double Inverted Pendulum mounted on a rotary arm." }}}{PARA 258 "" 0 
+"Description" {TEXT -1 0 "" }}{SECT 0 {PARA 3 "" 0 "" {TEXT -1 11 "Des
+cription" }}{PARA 15 "" 0 "" {TEXT -1 121 "This worksheet presents the
+ general dynamic equations modelling a single inverted pendulum mounte
+d on a rotatry pendulum." }}{PARA 15 "" 0 "" {TEXT -1 90 "Specifically
+, this worksheet is used to derive the state-space matrices for the Qu
+anser's " }{TEXT 284 51 "Rotary Double Inverted Pendulum (DBPEN-ROT or
+ DBIP)" }{TEXT -1 12 " experiment." }}{PARA 15 "" 0 "" {TEXT -1 98 "Th
+e resulting double inverted pendulum system has 2-Degrees-Of-Freedom (
+DOF), for a planar motion." }}{PARA 15 "" 0 "" {TEXT -1 72 "The Lagran
+ge's method is used to obtain the dynamic model of the system." }}
+{SECT 0 {PARA 4 "" 0 "" {TEXT -1 4 "The " }{TEXT 263 13 "Quanser_Tools
+" }{TEXT -1 8 " Package" }}{PARA 15 "" 0 "" {TEXT -1 4 "The " }{TEXT 
+264 13 "Quanser_Tools" }{TEXT -1 228 " module defines generic procedur
+es and data in relation to determining the state-space representation \+
+of all the Quanser experiments. Specifically, this means deriving and \+
+solving the Lagrange's equations of the Quanser systems." }}{PARA 15 "
+" 0 "" {TEXT -1 4 "The " }{TEXT 273 7 "quanser" }{TEXT -1 27 " reposit
+ory containing the " }{TEXT 272 13 "Quanser_Tools" }{TEXT -1 50 " pack
+age is implemented in the 2 following files: " }{TEXT 274 11 "quanser.
+ind" }{TEXT -1 5 " and " }{TEXT 275 12 "quanser.lib." }{TEXT -1 110 " \+
+If these two files are not readily available, they can be generated by
+ executing the Maple worksheet titled: " }{TEXT 265 17 "quanser_tools.
+mws" }{TEXT -1 1 "." }}{PARA 15 "" 0 "" {TEXT 271 10 "To install" }
+{TEXT -1 5 " the " }{TEXT 268 13 "Quanser_Tools" }{TEXT -1 29 " packag
+e, copy the two files " }{TEXT 266 11 "quanser.ind" }{TEXT -1 5 " and \+
+" }{TEXT 267 11 "quanser.lib" }{TEXT -1 98 "  into a directory of your
+ choice, like for example: \"C:\\Program Files\\Quanser\\Maple Reposit
+ory\". " }}{PARA 15 "" 0 "" {TEXT 270 6 "To use" }{TEXT -1 5 " the " }
+{TEXT 269 13 "Quanser_Tools" }{TEXT -1 94 " package in a Maple workshe
+et, add the path to its disk location to the Maple global variable " }
+{TEXT 276 7 "libname" }{TEXT -1 80 ". For example, this can be achieve
+d by the following Maple command: \nlibname := " }{TEXT 277 54 " \"C:/
+Program Files/Quanser/Maple Repository\", libname:" }}}{SECT 0 {PARA 
+4 "" 0 "" {TEXT -1 10 "References" }}{PARA 15 "" 0 "" {TEXT -1 159 "Fo
+r an overview of some of the possible control challenges offered by th
+e Quanser Rotary experiments please visit the following link on the Qu
+anser's website: " }{URLLINK 17 "Rotary Control Challenges" 4 "http://
+www.quanser.com/english/html/challenges/fs_chall_rotary_flash.htm" "" 
+}{TEXT -1 0 "" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{SECT 0 {PARA 3 "" 
+0 "" {TEXT -1 24 "Worksheet Initialization" }}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 41 "restart: interface( imaginaryunit = j ): " }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "with( LinearAlgebra ):" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 69 "libname := \"C:/Program File
+s/Quanser/Maple Repository\", \".\", libname:" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 22 "with( Quanser_Tools );" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#7,%$HTMG%(deriveAG%(deriveBG%(deriveFG%/kinetic_energyG
+%3lagrange_equationsG%2moment_of_inertiaG%'n_normG%1potential_energyG%
+4write_ABCD_to_MfileG" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 66 "environm
+ent variable representing the order of series calculations" }}{PARA 0 
+"> " 0 "" {MPLTEXT 1 0 11 "Order := 2:" }}}}{SECT 0 {PARA 3 "" 0 "Nota
+tions" {TEXT -1 9 "Notations" }}{SECT 0 {PARA 4 "" 0 "" {TEXT -1 25 "G
+eneralized Coordinates: " }{XPPEDIT 18 0 "q[i]" "6#&%\"qG6#%\"iG" }
+{TEXT -1 2 "'s" }}{PARA 0 "" 0 "" {TEXT -1 67 "The generalized coordin
+ates are also called Lagrangian coordinates." }}{PARA 0 "" 0 "" 
+{XPPEDIT 18 0 "theta(t);" "6#-%&thetaG6#%\"tG" }{TEXT -1 32 " =  rotar
+y arm angular position " }}{PARA 0 "" 0 "" {XPPEDIT 18 0 "alpha(t);" "
+6#-%&alphaG6#%\"tG" }{TEXT -1 162 " = position angle of the first join
+t of the double pendulum about the vertical: the zero angle is defined
+ when the bottom link is in the perfect upright position." }}{PARA 0 "
+" 0 "" {XPPEDIT 18 0 "gamma(t);" "6#-%&gammaG6#%\"tG" }{TEXT -1 230 " \+
+= position angle of the second joint of the double pendulum about the \+
+vertical: the zero angle is defined when the top pendulum is in-line w
+ith the bottom link of the double pendulum, i.e. link 1 and 2 are alig
+ned with each other" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 32 "Np = number
+ of links in pendulum" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "Np := 2:" }
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 36 "q := [ theta(t), alpha(t),
+ phi(t) ];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"qG7%-%&thetaG6#%\"tG
+-%&alphaGF(-%$phiGF(" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 63 "Nq = numb
+er of Lagrangian coordinates (e.g. here, it is Nq = 3)" }}{PARA 0 "" 
+0 "" {TEXT -1 41 "Nq is also the number of position states." }}{PARA 
+0 "> " 0 "" {MPLTEXT 1 0 16 "Nq := nops( q ):" }}}{EXCHG {PARA 0 "" 0 
+"" {TEXT -1 101 "qd = first-order time derivative of the generalized c
+oordinates, e.g. position and angular velocities" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 24 "qd := map( diff, q, t );" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%#qdG7%-%%diffG6$-%&thetaG6#%\"tGF,-F'6$-%&alphaGF+F,-
+F'6$-%$phiGF+F," }}}}{SECT 0 {PARA 4 "" 0 "" {TEXT -1 23 "Transformati
+on Matrices" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 70 "From base coordinat
+e to tip of arm: T_0_1 = Rot(Z0, theta)*Trans(X1,r)" }}{PARA 0 "> " 0 
+"" {MPLTEXT 1 0 118 "T_0_1 := matrix(4,4,[\ncos(q[1]),-sin(q[1]),0,L[r
+]*cos(q[1]),\nsin(q[1]),cos(q[1]),0,L[r]*sin(q[1]),\n0,0,1,0,\n0,0,0,1
+]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&T_0_1GK%'matrixG6#7&7&-%$cos
+G6#-%&thetaG6#%\"tG,$-%$sinGF,!\"\"\"\"!*&&%\"LG6#%\"rG\"\"\"F*F;7&F2F
+*F5*&F7F;F2F;7&F5F5F;F57&F5F5F5F;Q(pprint06\"" }}}{EXCHG {PARA 0 "" 0 
+"" {TEXT -1 70 "From tip of arm to CM of link 1: T_1_2 =  Rot(X1, alph
+a)*Trans(Z2, l1)" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 121 "T_1_2 := matri
+x(4,4,[\n1,0,0,0,\n0,cos(q[2]),-sin(q[2]),-l[p1]*sin(q[2]),\n0,sin(q[2
+]),cos(q[2]),l[p1]*cos(q[2]),\n0,0,0,1]);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%&T_1_2GK%'matrixG6#7&7&\"\"\"\"\"!F+F+7&F+-%$cosG6#-%
+&alphaG6#%\"tG,$-%$sinGF/!\"\",$*&&%\"lG6#%#p1GF*F5F*F77&F+F5F-*&F:F*F
+-F*7&F+F+F+F*Q(pprint06\"" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 60 "From
+ tip of arm to hinge: T_1_h = Rot(X1,alpha)*Trans(Z2,L1)" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 121 "T_1_h := matrix(4,4,[\n1,0,0,0,\n0
+,cos(q[2]),-sin(q[2]),-L[p1]*sin(q[2]),\n0,sin(q[2]),cos(q[2]),L[p1]*c
+os(q[2]),\n0,0,0,1]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&T_1_hGK%'m
+atrixG6#7&7&\"\"\"\"\"!F+F+7&F+-%$cosG6#-%&alphaG6#%\"tG,$-%$sinGF/!\"
+\",$*&&%\"LG6#%#p1GF*F5F*F77&F+F5F-*&F:F*F-F*7&F+F+F+F*Q(pprint06\"" }
+}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 62 "From hinge to CM of link 2: T_h_
+3 = Rot(X2,gamma)*Trans(Y3,l2)" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 121 "
+T_h_3 := matrix(4,4,[\n1,0,0,0,\n0,cos(q[3]),-sin(q[3]),-l[p2]*sin(q[3
+]),\n0,sin(q[3]),cos(q[3]),l[p2]*cos(q[3]),\n0,0,0,1]);" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#>%&T_h_3GK%'matrixG6#7&7&\"\"\"\"\"!F+F+7&F+-%$c
+osG6#-%$phiG6#%\"tG,$-%$sinGF/!\"\",$*&&%\"lG6#%#p2GF*F5F*F77&F+F5F-*&
+F:F*F-F*7&F+F+F+F*Q(pprint06\"" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 63 
+"CM of link 1 relative to base coordinate: T_0_2 = T_0_1 * T_1_2" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "T_0_2 := evalm( T_0_1 &* T_1_2 );" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&T_0_2GK%'matrixG6#7&7&-%$cosG6#-%
+&thetaG6#%\"tG,$*&-%$sinGF,\"\"\"-F+6#-%&alphaGF/F5!\"\"*&F3F5-F4F7F5,
+&*(F3F5&%\"lG6#%#p1GF5F<F5F5*&&%\"LG6#%\"rGF5F*F5F57&F3*&F*F5F6F5,$*&F
+*F5F<F5F:,&*(F*F5F?F5F<F5F:*&FDF5F3F5F57&\"\"!F<F6*&F?F5F6F57&FPFPFPF5
+Q(pprint06\"" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 56 "Hinge relative to
+ base coordiante: T_0_h = T_0_1 * T_1_h" }}{PARA 0 "> " 0 "" {MPLTEXT 
+1 0 33 "T_0_h := evalm( T_0_1 &* T_1_h );" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%&T_0_hGK%'matrixG6#7&7&-%$cosG6#-%&thetaG6#%\"tG,$*&-
+%$sinGF,\"\"\"-F+6#-%&alphaGF/F5!\"\"*&F3F5-F4F7F5,&*(F3F5&%\"LG6#%#p1
+GF5F<F5F5*&&F@6#%\"rGF5F*F5F57&F3*&F*F5F6F5,$*&F*F5F<F5F:,&*(F*F5F?F5F
+<F5F:*&FDF5F3F5F57&\"\"!F<F6*&F?F5F6F57&FOFOFOF5Q(pprint06\"" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 63 "CM of link 2 relative to base coor
+dinate: T_0_3 = T_0_h * T_h_3" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "T_
+0_3 := evalm( T_0_h &* T_h_3 );" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%&
+T_0_3GK%'matrixG6#7&7&-%$cosG6#-%&thetaG6#%\"tG,&*(-%$sinGF,\"\"\"-F+6
+#-%&alphaGF/F5-F+6#-%$phiGF/F5!\"\"*(F3F5-F4F7F5-F4F;F5F5,&*(F3F5F6F5F
+AF5F5*(F3F5F@F5F:F5F5,***F3F5F6F5&%\"lG6#%#p2GF5FAF5F5**F3F5F@F5FGF5F:
+F5F5*(F3F5&%\"LG6#%#p1GF5F@F5F5*&&FN6#%\"rGF5F*F5F57&F3,&*(F*F5F6F5F:F
+5F5*(F*F5F@F5FAF5F>,&*(F*F5F6F5FAF5F>*(F*F5F@F5F:F5F>,***F*F5F6F5FGF5F
+AF5F>**F*F5F@F5FGF5F:F5F>*(F*F5FMF5F@F5F>*&FRF5F3F5F57&\"\"!,&*&F@F5F:
+F5F5*&F6F5FAF5F5,&*&F@F5FAF5F>*&F6F5F:F5F5,(*(F@F5FGF5FAF5F>*(F6F5FGF5
+F:F5F5*&FMF5F6F5F57&F\\oF\\oF\\oF5Q(pprint06\"" }}}}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{SECT 0 {PARA 4 "" 0 "" {TEXT -1 58 "Cartesian Coordin
+ates of the Pendulum's Centre Of Gravity " }}{PARA 0 "" 0 "" {TEXT -1 
+12 "conventions:" }}{PARA 0 "" 0 "" {TEXT -1 3 "1) " }{XPPEDIT 18 0 "a
+lpha = 0" "6#/%&alphaG\"\"!" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "gamma
+ = 0;" "6#/%&gammaG\"\"!" }{TEXT -1 77 " correspond to the double pend
+ulum being perfectly vertical, pointing upwards" }}{PARA 0 "" 0 "" 
+{TEXT -1 29 "2) positive rotation of arm, " }{XPPEDIT 18 0 "0 < diff(t
+heta(t),t);" "6#2\"\"!-%%diffG6$-%&thetaG6#%\"tGF+" }{TEXT -1 8 ", is \+
+CCW" }}{PARA 0 "" 0 "" {TEXT -1 34 "3) positive rotation of pendulum, \+
+" }{XPPEDIT 18 0 "0 < diff(alpha(t),t);" "6#2\"\"!-%%diffG6$-%&alphaG6
+#%\"tGF+" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "0 < diff(gamma(t),t);" "
+6#2\"\"!-%%diffG6$-%&gammaG6#%\"tGF+" }{TEXT -1 14 ", is also CCW." }}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 54 "Absolute 3-dimensional Cartesian p
+osition: tip of arm." }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 60 "x[1] := T_0
+_1[1,4];\ny[1] := T_0_1[2,4];\nz[1] := T_0_1[3,4];\n" }}{PARA 11 "" 1 
+"" {XPPMATH 20 "6#>&%\"xG6#\"\"\"*&&%\"LG6#%\"rGF'-%$cosG6#-%&thetaG6#
+%\"tGF'" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>&%\"yG6#\"\"\"*&&%\"LG6#%
+\"rGF'-%$sinG6#-%&thetaG6#%\"tGF'" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>
+&%\"zG6#\"\"\"\"\"!" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 56 "Absolute 3
+-dimensional Cartesian position: CM of link 1." }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 59 "x[2] := T_0_2[1,4];\ny[2] := T_0_2[2,4];\nz[2] := T_0
+_2[3,4];" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>&%\"xG6#\"\"#,&*(-%$sinG6#-%&thetaG6#%\"tG\"\"\"&%\"lG6#%#p1GF1
+-F+6#-%&alphaGF/F1F1*&&%\"LG6#%\"rGF1-%$cosGF,F1F1" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#>&%\"yG6#\"\"#,&*(-%$cosG6#-%&thetaG6#%\"tG\"\"\"&%\"
+lG6#%#p1GF1-%$sinG6#-%&alphaGF/F1!\"\"*&&%\"LG6#%\"rGF1-F7F,F1F1" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>&%\"zG6#\"\"#*&&%\"lG6#%#p1G\"\"\"-%$
+cosG6#-%&alphaG6#%\"tGF-" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 55 "Absol
+ute 3-dimensional Cartesian position: CM of hinge." }}{PARA 0 "> " 0 "
+" {MPLTEXT 1 0 62 "x[h] :=  T_0_h[1,4];\ny[h] :=  T_0_h[2,4];\nz[h] :=
+  T_0_h[3,4];" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>&%\"xG6#%\"hG,&*(-%$sinG6#-%&thetaG6#%\"tG\"\"\"&%\"LG
+6#%#p1GF1-F+6#-%&alphaGF/F1F1*&&F36#%\"rGF1-%$cosGF,F1F1" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#>&%\"yG6#%\"hG,&*(-%$cosG6#-%&thetaG6#%\"tG\"\"
+\"&%\"LG6#%#p1GF1-%$sinG6#-%&alphaGF/F1!\"\"*&&F36#%\"rGF1-F7F,F1F1" }
+}{PARA 11 "" 1 "" {XPPMATH 20 "6#>&%\"zG6#%\"hG*&&%\"LG6#%#p1G\"\"\"-%
+$cosG6#-%&alphaG6#%\"tGF-" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 56 "Abso
+lute 3-dimensional Cartesian position: CM of link 2." }}{PARA 0 "> " 
+0 "" {MPLTEXT 1 0 62 "x[3] :=  T_0_3[1,4];\ny[3] :=  T_0_3[2,4];\nz[3]
+ :=  T_0_3[3,4];" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>&%\"xG6#\"\"$,***-%$sinG6#-%&thetaG6#%\"tG\"\"\"-%$cos
+G6#-%&alphaGF/F1&%\"lG6#%#p2GF1-F+6#-%$phiGF/F1F1**F*F1-F+F4F1F7F1-F3F
+<F1F1*(F*F1&%\"LG6#%#p1GF1F@F1F1*&&FD6#%\"rGF1-F3F,F1F1" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#>&%\"yG6#\"\"$,***-%$cosG6#-%&thetaG6#%\"tG\"\"
+\"-F+6#-%&alphaGF/F1&%\"lG6#%#p2GF1-%$sinG6#-%$phiGF/F1!\"\"**F*F1-F;F
+3F1F6F1-F+F<F1F?*(F*F1&%\"LG6#%#p1GF1FAF1F?*&&FE6#%\"rGF1-F;F,F1F1" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>&%\"zG6#\"\"$,(*(-%$sinG6#-%&alphaG6#
+%\"tG\"\"\"&%\"lG6#%#p2GF1-F+6#-%$phiGF/F1!\"\"*(-%$cosGF,F1F2F1-F=F7F
+1F1*&&%\"LG6#%#p1GF1F<F1F1" }}}{EXCHG {PARA 11 "" 1 "" {TEXT -1 0 "" }
+}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 44 "Absolute 3-dimensional Cartesian
+ velocities." }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 312 "xd[1] := diff( x[1
+], t );\nyd[1] := diff( y[1], t );\nzd[1] := diff( z[1], t );\nxd[2] :
+= diff( x[2], t );\nyd[2] := diff( y[2], t );\nzd[2] := diff( z[2], t \+
+);\nxd[h] := diff( x[h], t );\nyd[h] := diff( y[h], t );\nzd[h] := dif
+f( z[h], t );\nxd[3] := diff( x[3], t );\nyd[3] := diff( y[3], t );\nz
+d[3] := diff( z[3], t );\n" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>&%#xdG6
+#\"\"\",$*(&%\"LG6#%\"rGF'-%$sinG6#-%&thetaG6#%\"tGF'-%%diffG6$F1F4F'!
+\"\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>&%#ydG6#\"\"\"*(&%\"LG6#%\"rG
+F'-%$cosG6#-%&thetaG6#%\"tGF'-%%diffG6$F0F3F'" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>&%#zdG6#\"\"\"\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#>&%#xdG6#\"\"#,(**-%$cosG6#-%&thetaG6#%\"tG\"\"\"-%%diffG6$F-F0F1&%\"
+lG6#%#p1GF1-%$sinG6#-%&alphaGF/F1F1**-F:F,F1F5F1-F+F;F1-F36$F<F0F1F1*(
+&%\"LG6#%\"rGF1F?F1F2F1!\"\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>&%#yd
+G6#\"\"#,(**-%$sinG6#-%&thetaG6#%\"tG\"\"\"-%%diffG6$F-F0F1&%\"lG6#%#p
+1GF1-F+6#-%&alphaGF/F1F1**-%$cosGF,F1F5F1-F?F:F1-F36$F;F0F1!\"\"*(&%\"
+LG6#%\"rGF1F>F1F2F1F1" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>&%#zdG6#\"\"
+#,$*(&%\"lG6#%#p1G\"\"\"-%$sinG6#-%&alphaG6#%\"tGF.-%%diffG6$F2F5F.!\"
+\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>&%#xdG6#%\"hG,(**-%$cosG6#-%&th
+etaG6#%\"tG\"\"\"-%%diffG6$F-F0F1&%\"LG6#%#p1GF1-%$sinG6#-%&alphaGF/F1
+F1**-F:F,F1F5F1-F+F;F1-F36$F<F0F1F1*(&F66#%\"rGF1F?F1F2F1!\"\"" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>&%#ydG6#%\"hG,(**-%$sinG6#-%&thetaG6#
+%\"tG\"\"\"-%%diffG6$F-F0F1&%\"LG6#%#p1GF1-F+6#-%&alphaGF/F1F1**-%$cos
+GF,F1F5F1-F?F:F1-F36$F;F0F1!\"\"*(&F66#%\"rGF1F>F1F2F1F1" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#>&%#zdG6#%\"hG,$*(&%\"LG6#%#p1G\"\"\"-%$sinG6#-%
+&alphaG6#%\"tGF.-%%diffG6$F2F5F.!\"\"" }}{PARA 12 "" 1 "" {XPPMATH 20 
+"6#>&%#xdG6#\"\"$,4*,-%$cosG6#-%&thetaG6#%\"tG\"\"\"-%%diffG6$F-F0F1-F
++6#-%&alphaGF/F1&%\"lG6#%#p2GF1-%$sinG6#-%$phiGF/F1F1*,-F>F,F1-F>F6F1-
+F36$F7F0F1F9F1F=F1!\"\"*,FCF1F5F1F9F1-F+F?F1-F36$F@F0F1F1*,F*F1F2F1FDF
+1F9F1FIF1F1*,FCF1F5F1FEF1F9F1FIF1F1*,FCF1FDF1F9F1F=F1FJF1FG**F*F1F2F1&
+%\"LG6#%#p1GF1FDF1F1**FCF1FPF1F5F1FEF1F1*(&FQ6#%\"rGF1FCF1F2F1FG" }}
+{PARA 12 "" 1 "" {XPPMATH 20 "6#>&%#ydG6#\"\"$,4*,-%$sinG6#-%&thetaG6#
+%\"tG\"\"\"-%%diffG6$F-F0F1-%$cosG6#-%&alphaGF/F1&%\"lG6#%#p2GF1-F+6#-
+%$phiGF/F1F1*,-F6F,F1-F+F7F1-F36$F8F0F1F:F1F>F1F1*,FCF1F5F1F:F1-F6F?F1
+-F36$F@F0F1!\"\"*,F*F1F2F1FDF1F:F1FHF1F1*,FCF1F5F1FEF1F:F1FHF1FK*,FCF1
+FDF1F:F1F>F1FIF1F1**F*F1F2F1&%\"LG6#%#p1GF1FDF1F1**FCF1FPF1F5F1FEF1FK*
+(&FQ6#%\"rGF1FCF1F2F1F1" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>&%#zdG6#\"
+\"$,,**-%$cosG6#-%&alphaG6#%\"tG\"\"\"-%%diffG6$F-F0F1&%\"lG6#%#p2GF1-
+%$sinG6#-%$phiGF/F1!\"\"**-F:F,F1F5F1-F+F;F1-F36$F<F0F1F>**F@F1F2F1F5F
+1FAF1F>**F*F1F5F1F9F1FBF1F>*(&%\"LG6#%#p1GF1F@F1F2F1F>" }}}{PARA 0 "" 
+0 "" {TEXT -1 0 "" }}}{SECT 0 {PARA 4 "" 0 "" {TEXT -1 21 "State-Space
+ Variables" }}{PARA 15 "" 0 "" {TEXT -1 103 "The chosen states should \+
+at least include the generalized coordinates and their first-time deri
+vatives." }}{PARA 15 "" 0 "" {TEXT -1 22 "X is the state vector." }}
+{PARA 15 "" 0 "" {TEXT -1 141 "In the state vector X: Lagrangian coord
+inates are first, followed by their first-time derivatives, and finall
+y any other states, as required." }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+78 "Substitution sets for the states (to obtain time-independent state
+ equations)." }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 92 "subs_Xq := \{ seq( \+
+q[i] = X[i], i=1..Nq ) \};\nsubs_Xqd := \{ seq( qd[i] = X[i+Nq], i=1..
+Nq ) \};" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%(subs_XqG<%/-%$phiG6#%\"
+tG&%\"XG6#\"\"$/-%&alphaGF)&F,6#\"\"#/-%&thetaGF)&F,6#\"\"\"" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#>%)subs_XqdG<%/-%%diffG6$-%$phiG6#%\"tGF-&%
+\"XG6#\"\"'/-F(6$-%&alphaGF,F-&F/6#\"\"&/-F(6$-%&thetaGF,F-&F/6#\"\"%
+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 34 "Substitution set for the inpu
+t(s)." }}{PARA 0 "" 0 "" {TEXT -1 38 "set the input to be the motor vo
+ltage:" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 27 "#subs_U := \{ V[m] = U[1]
+ \}:" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 59 "set the input to be the t
+orque applied by the motor shaft, " }{XPPEDIT 18 0 "tau[output];" "6#&
+%$tauG6#%'outputG" }{TEXT -1 56 " (if not expressed as a function of t
+he motor voltage): " }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 28 "subs_U := \{
+ tau[m] = U[1] \}:" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 66 "Nu = number
+ of inputs; U = input (row) vector (e.g. U = [ V[m] ] )" }}{PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 21 "Nu := nops( subs_U ):" }}}{EXCHG {PARA 0 "" 0 
+"" {TEXT -1 65 "substitution set for the position states' second time \+
+derivatives" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 63 "subs_Xqdd := \{ seq(
+ diff( q[i], t$2 ) =  Xd[i+Nq], i=1..Nq ) \};" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%*subs_XqddG<%/-%%diffG6$-%$phiG6#%\"tG-%\"$G6$F-\"\"#
+&%#XdG6#\"\"'/-F(6$-%&alphaGF,F.&F36#\"\"&/-F(6$-%&thetaGF,F.&F36#\"\"
+%" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 87 "second time derivatives of t
+he position states (written as time-independent variables)." }}{PARA 
+0 "" 0 "" {TEXT -1 91 "The set of unknowns is obtained from this list \+
+to solve the Lagrange's equations of motion." }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 37 "Xqdd := [ seq( Xd[i+Nq], i=1..Nq ) ];" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#>%%XqddG7%&%#XdG6#\"\"%&F'6#\"\"&&F'6#\"\"'" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 70 "substitution set to linearize the \+
+state-space matrices (i.e. A and B) " }}{PARA 0 "" 0 "" {TEXT -1 65 "a
+bout the quiescent null state vector (small-displacement theory)" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 72 "subs_XUzero := \{ seq( X[i] = 0, i=
+1..2*Nq ), seq( U[i] = 0, i=1..Nu ) \}:" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 83 "Nx = dim( X ) = total number of states (should be greater
+ than or equal to: 2 * Nq)" }}{PARA 0 "" 0 "" {TEXT -1 29 "Ny = chosen
+ number of outputs" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "Nx :=
+ 2 * Nq:\nNy := Nq:" }}}}}{SECT 0 {PARA 3 "" 0 "" {TEXT -1 50 "Total P
+otential and Kinetic Energies of the System" }}{PARA 0 "" 0 "" {TEXT 
+-1 94 "The total potential and kinetic energies are needed to calculat
+e the Lagrangian of the system." }}{SECT 0 {PARA 4 "" 0 "" {TEXT -1 
+24 "Total Potential Energy: " }{XPPEDIT 18 0 "V[T];" "6#&%\"VG6#%\"TG
+" }{TEXT -1 1 " " }}{PARA 0 "" 0 "" {TEXT -1 90 "The total potential e
+nergy can be expressed in terms of the generalized coordinates alone.
+" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 51 "V[e] = Total Elastic Potential
+ Energy of the system" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "V[e] := 0:
+ " }}}{EXCHG {PARA 0 "" 0 "" {XPPEDIT 18 0 "V[g1];" "6#&%\"VG6#%#g1G" 
+}{TEXT -1 33 " = potential energy of link 1 CM." }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 56 "V[g1] := potential_energy( 'gravity', m[p1], g
+, z[2] ); " }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>&%\"VG6#%#g1G**&%\"mG6#
+%#p1G\"\"\"%\"gGF-&%\"lGF+F--%$cosG6#-%&alphaG6#%\"tGF-" }}}{EXCHG 
+{PARA 0 "" 0 "" {XPPEDIT 18 0 "V[gh];" "6#&%\"VG6#%#ghG" }{TEXT -1 29 
+" = potential energy of hinge." }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 54 "V
+[gh] := potential_energy( 'gravity', m[h], g, z[h] );" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#>&%\"VG6#%#ghG**&%\"mG6#%\"hG\"\"\"%\"gGF-&%\"LG6#
+%#p1GF--%$cosG6#-%&alphaG6#%\"tGF-" }}}{EXCHG {PARA 0 "" 0 "" 
+{XPPEDIT 18 0 "V[g2];" "6#&%\"VG6#%#g2G" }{TEXT -1 33 " = potential en
+ergy of link 2 CM." }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 55 "V[g2] := pote
+ntial_energy( 'gravity', m[p2], g, z[3] );" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>&%\"VG6#%#g2G*(&%\"mG6#%#p2G\"\"\"%\"gGF-,(*(-%$sinG6#
+-%&alphaG6#%\"tGF-&%\"lGF+F--F26#-%$phiGF6F-!\"\"*(-%$cosGF3F-F8F--FAF
+;F-F-*&&%\"LG6#%#p1GF-F@F-F-F-" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 57 
+"V[g] = Total Gravitational Potential Energy of the system" }}{PARA 0 
+"> " 0 "" {MPLTEXT 1 0 30 "V[g] := V[g1] + V[gh] + V[g2]:" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 43 "V[T] = Total Potential Energy of the syst
+em" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 20 "V[T] := V[g] + V[e];" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>&%\"VG6#%\"TG,(**&%\"mG6#%#p1G\"\"\"%
+\"gGF.&%\"lGF,F.-%$cosG6#-%&alphaG6#%\"tGF.F.**&F+6#%\"hGF.F/F.&%\"LGF
+,F.F2F.F.*(&F+6#%#p2GF.F/F.,(*(-%$sinGF4F.&F1FAF.-FF6#-%$phiGF7F.!\"\"
+*(F2F.FGF.-F3FIF.F.*&F=F.F2F.F.F.F." }}}{PARA 0 "" 0 "" {TEXT -1 0 "" 
+}}}{SECT 0 {PARA 4 "" 0 "" {TEXT -1 22 "Total Kinetic Energy: " }
+{XPPEDIT 18 0 "T[T];" "6#&%\"TG6#F$" }}{PARA 0 "" 0 "" {TEXT -1 115 "T
+he total kinetic energy can be expressed in terms of the generalized c
+oordinates and their first-time derivatives." }}{EXCHG {PARA 0 "" 0 "
+" {TEXT -1 0 "" }{XPPEDIT 18 0 "T[r1];" "6#&%\"TG6#%#r1G" }{TEXT -1 
+40 " = kinetic energy due to rotation of arm" }}{PARA 0 "" 0 "" 
+{XPPEDIT 18 0 "J[m];" "6#&%\"JG6#%\"mG" }{TEXT -1 45 " = moment of ine
+rtia of motor and rotary arm." }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 51 "Tr
+[1] := kinetic_energy( 'rotation', J[r], qd[1] );" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>&%#TrG6#\"\"\",$*&#F'\"\"#F'*&&%\"JG6#%\"rGF')-%%diffG
+6$-%&thetaG6#%\"tGF8F+F'F'F'" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 175 "
+The DBPEN motion is composed of two rotations and two translations. Th
+e rotation and translation directions of each link composing the doubl
+e pendulum assembly are orthogonal." }}{PARA 0 "" 0 "" {XPPEDIT 18 0 "
+Diff(alpha(t),t)" "6#-%%DiffG6$-%&alphaG6#%\"tGF)" }{TEXT -1 39 " = pe
+ndulum 1 absolute angular velocity" }}{PARA 0 "" 0 "" {TEXT -1 98 "Tr[
+2] = pendulum 1 rotational kinetic kinergy: set to zero since joint do
+es not move around a lot." }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 65 "#Tr[2]
+ := kinetic_energy( 'rotation', J[p1], qd[2] );\nTr[2] := 0;" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#>&%#TrG6#\"\"#\"\"!" }}}{EXCHG {PARA 0 "" 0 
+"" {TEXT -1 48 "v[2] = pendulum 1 cartesian velocity (magnitude)" }}
+{PARA 0 "" 0 "" {TEXT -1 48 "Tt[2] = pendulum 1 translational kinetic \+
+kinergy" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 100 "v[2] := n_norm( [ xd[2]
+, yd[2], zd[2] ], 2 ):\nTt[2] := kinetic_energy( 'translation', m[p1],
+ v[2] );" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>&%#TtG6#\"\"#,$*&#\"\"\"F
+'F+*&&%\"mG6#%#p1GF+,(*$),(**-%$cosG6#-%&thetaG6#%\"tGF+-%%diffG6$F9F<
+F+&%\"lGF/F+-%$sinG6#-%&alphaGF;F+F+**-FCF8F+F@F+-F7FDF+-F>6$FEF<F+F+*
+(&%\"LG6#%\"rGF+FHF+F=F+!\"\"F'F+F+*$),(**FHF+F=F+F@F+FBF+F+**F6F+F@F+
+FIF+FJF+FQ*(FMF+F6F+F=F+F+F'F+F+*()F@F'F+)FBF'F+)FJF'F+F+F+F+F+" }}}
+{EXCHG {PARA 0 "" 0 "" {XPPEDIT 18 0 "Diff(alpha(t),t);" "6#-%%DiffG6$
+-%&alphaG6#%\"tGF)" }{TEXT -1 40 " = DBPEN hinge absolute angular velo
+city" }}{PARA 0 "" 0 "" {TEXT -1 49 "v[3] = DBPEN hinge cartesian velo
+city (magnitude)" }}{PARA 0 "" 0 "" {TEXT -1 49 "Tt[3] = DBPEN hinge t
+ranslational kinetic kinergy" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 98 "v[h
+] := n_norm( [ xd[h], yd[h], zd[h] ], 2 ):\nTt[h] := kinetic_energy( '
+translation', m[h], v[h]);" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>&%#TtG6
+#%\"hG,$*&#\"\"\"\"\"#F+*&&%\"mGF&F+,(*$),(**-%$cosG6#-%&thetaG6#%\"tG
+F+-%%diffG6$F8F;F+&%\"LG6#%#p1GF+-%$sinG6#-%&alphaGF:F+F+**-FDF7F+F?F+
+-F6FEF+-F=6$FFF;F+F+*(&F@6#%\"rGF+FIF+F<F+!\"\"F,F+F+*$),(**FIF+F<F+F?
+F+FCF+F+**F5F+F?F+FJF+FKF+FQ*(FNF+F5F+F<F+F+F,F+F+*()F?F,F+)FCF,F+)FKF
+,F+F+F+F+F+" }}}{EXCHG {PARA 0 "" 0 "" {XPPEDIT 18 0 "Diff(gamma(t),t)
+;" "6#-%%DiffG6$-%&gammaG6#%\"tGF)" }{TEXT -1 39 " = pendulum 2 absolu
+te angular velocity" }}{PARA 0 "" 0 "" {TEXT -1 97 "Tr[3] = pendulum 2
+ rotational kinetic energy: set to zero since joint does not move arou
+nd a lot." }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 65 "#Tr[3] := kinetic_ener
+gy( 'rotation', J[p2], qd[3] );\nTr[3] := 0;" }{TEXT -1 0 "" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#>&%#TrG6#\"\"$\"\"!" }}}{EXCHG {PARA 0 "" 0 
+"" {TEXT -1 48 "v[3] = pendulum 2 cartesian velocity (magnitude)" }}
+{PARA 0 "" 0 "" {TEXT -1 48 "Tt[3] = pendulum 2 translational kinetic \+
+kinergy" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 99 "v[3] := n_norm( [ xd[3],
+ yd[3], zd[3] ], 2 ):\nTt[3] := kinetic_energy( 'translation', m[p2], \+
+v[3]);" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>&%#TtG6#\"\"$,$*&#\"\"\"\"
+\"#F+*&&%\"mG6#%#p2GF+,(*$),4*,-%$cosG6#-%&thetaG6#%\"tGF+-%%diffG6$F:
+F=F+-F86#-%&alphaGF<F+&%\"lGF0F+-%$sinG6#-%$phiGF<F+F+*,-FHF9F+-FHFBF+
+-F?6$FCF=F+FEF+FGF+!\"\"*,FMF+FAF+FEF+-F8FIF+-F?6$FJF=F+F+*,F7F+F>F+FN
+F+FEF+FSF+F+*,FMF+FAF+FOF+FEF+FSF+F+*,FMF+FNF+FEF+FGF+FTF+FQ**F7F+F>F+
+&%\"LG6#%#p1GF+FNF+F+**FMF+FZF+FAF+FOF+F+*(&Fen6#%\"rGF+FMF+F>F+FQF,F+
+F+*$),4*,FMF+F>F+FAF+FEF+FGF+F+*,F7F+FNF+FOF+FEF+FGF+F+*,F7F+FAF+FEF+F
+SF+FTF+FQ*,FMF+F>F+FNF+FEF+FSF+F+*,F7F+FAF+FOF+FEF+FSF+FQ*,F7F+FNF+FEF
++FGF+FTF+F+**FMF+F>F+FZF+FNF+F+**F7F+FZF+FAF+FOF+FQ*(FjnF+F7F+F>F+F+F,
+F+F+*$),,**FAF+FOF+FEF+FGF+FQ**FNF+FEF+FSF+FTF+FQ**FNF+FOF+FEF+FSF+FQ*
+*FAF+FEF+FGF+FTF+FQ*(FZF+FNF+FOF+FQF,F+F+F+F+F+" }}}{EXCHG {PARA 0 "" 
+0 "" {TEXT -1 29 "Total kinetic energy of DBPEN" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 93 "T[T] := Tr[1] + Tr[2] + Tr[3] + Tt[1] + Tt[2] + Tt[h]
+ + Tt[3];\nT[T] := collect( T[T], diff ):" }}{PARA 12 "" 1 "" 
+{XPPMATH 20 "6#>&%\"TG6#F%,,*&#\"\"\"\"\"#F**&&%\"JG6#%\"rGF*)-%%diffG
+6$-%&thetaG6#%\"tGF8F+F*F*F*&%#TtG6#F*F**&F)F**&&%\"mG6#%#p1GF*,(*$),(
+**-%$cosG6#F5F*F2F*&%\"lGF@F*-%$sinG6#-%&alphaGF7F*F***-FMFIF*FJF*-FHF
+NF*-F36$FOF8F*F**(&%\"LGF/F*FRF*F2F*!\"\"F+F*F**$),(**FRF*F2F*FJF*FLF*
+F***FGF*FJF*FSF*FTF*FY*(FWF*FGF*F2F*F*F+F*F**()FJF+F*)FLF+F*)FTF+F*F*F
+*F*F**&F)F**&&F?6#%\"hGF*,(*$),(**FGF*F2F*&FXF@F*FLF*F***FRF*FhoF*FSF*
+FTF*F*FVFYF+F*F**$),(**FRF*F2F*FhoF*FLF*F***FGF*FhoF*FSF*FTF*FYFinF*F+
+F*F**()FhoF+F*F\\oF*F]oF*F*F*F*F**&F)F**&&F?6#%#p2GF*,(*$),4*,FGF*F2F*
+FSF*&FKFdpF*-FM6#-%$phiGF7F*F**,FRF*FLF*FTF*F[qF*F\\qF*FY*,FRF*FSF*F[q
+F*-FHF]qF*-F36$F^qF8F*F**,FGF*F2F*FLF*F[qF*FbqF*F**,FRF*FSF*FTF*F[qF*F
+bqF*F**,FRF*FLF*F[qF*F\\qF*FcqF*FYFgoF*FioF*FVFYF+F*F**$),4*,FRF*F2F*F
+SF*F[qF*F\\qF*F**,FGF*FLF*FTF*F[qF*F\\qF*F**,FGF*FSF*F[qF*FbqF*FcqF*FY
+*,FRF*F2F*FLF*F[qF*FbqF*F**,FGF*FSF*FTF*F[qF*FbqF*FY*,FGF*FLF*F[qF*F\\
+qF*FcqF*F*F]pF*F^pFYFinF*F+F*F**$),,**FSF*FTF*F[qF*F\\qF*FY**FLF*F[qF*
+FbqF*FcqF*FY**FLF*FTF*F[qF*FbqF*FY**FSF*F[qF*F\\qF*FcqF*FY*(FhoF*FLF*F
+TF*FYF+F*F*F*F*F*" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}}{SECT 0 {PARA 
+3 "" 0 "" {TEXT -1 20 "Generalized Forces: " }{XPPEDIT 18 0 "Q[i]" "6#
+&%\"QG6#%\"iG" }{TEXT -1 2 "'s" }}{PARA 0 "" 0 "" {TEXT -1 78 "The non
+-conservative forces corresponding to the generalized coordinates are:
+ " }{XPPEDIT 18 0 "tau[m];" "6#&%$tauG6#%\"mG" }{TEXT -1 38 " and the \+
+viscous damping forces, where" }}{PARA 0 "" 0 "" {XPPEDIT 18 0 "tau[m]
+;" "6#&%$tauG6#%\"mG" }{TEXT -1 48 " = torque generated by the motor d
+riving the arm" }}{PARA 0 "" 0 "" {XPPEDIT 18 0 "B[r];" "6#&%\"BG6#%\"
+rG" }{TEXT -1 67 " = arm viscous friction torque coefficient (a.k.a. v
+iscous damping)" }}{PARA 0 "" 0 "" {XPPEDIT 18 0 "B[p1];" "6#&%\"BG6#%
+#p1G" }{TEXT -1 74 " = pendulum 1 viscous friction torque coefficient \+
+(a.k.a. viscous damping)" }}{PARA 0 "" 0 "" {XPPEDIT 18 0 "B[p2];" "6#
+&%\"BG6#%#p2G" }{TEXT -1 74 " = pendulum 2 viscous friction torque coe
+fficient (a.k.a. viscous damping)" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+43 "Set to zero if viscous damping is neglected" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 11 "#B[r] := 0:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 25 "#B[p1] := 0:\n#B[p2] := 0:" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+63 "Q[i] = generalized force applied on generalized coordinate q[i]" }
+}{PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "Q[1] := tau[m] - B[r] * qd[1];" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>&%\"QG6#\"\"\",&&%$tauG6#%\"mGF'*&&%
+\"BG6#%\"rGF'-%%diffG6$-%&thetaG6#%\"tGF8F'!\"\"" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 23 "Q[2] := -B[p1] * qd[2];" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>&%\"QG6#\"\"#,$*&&%\"BG6#%#p1G\"\"\"-%%diffG6$-%&alpha
+G6#%\"tGF5F.!\"\"" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "Q[3] :
+= -B[p2] * qd[3];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>&%\"QG6#\"\"$,$*
+&&%\"BG6#%#p2G\"\"\"-%%diffG6$-%$phiG6#%\"tGF5F.!\"\"" }}}{EXCHG 
+{PARA 0 "" 0 "" {XPPEDIT 18 0 "[taum];" "6#7#%%taumG" }{TEXT -1 96 " =
+ torque produced by the motor at the motor pinion (i.e. after the gear
+box): arm driving torque" }}{PARA 0 "" 0 "" {TEXT -1 38 "rm: comment t
+he following line out if " }{XPPEDIT 18 0 "u = tau[m];" "6#/%\"uG&%$ta
+uG6#%\"mG" }{TEXT -1 18 ", uncomment it if " }{XPPEDIT 18 0 "u = V[m];
+" "6#/%\"uG&%\"VG6#%\"mG" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }{TEXT 283 
+4 "note" }{TEXT -1 122 ": the actuator dynamics are added in the Matla
+b script to save on the computation time of the EOM in this Maple work
+sheet." }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 81 "#tau[m] := eta[g] * K[g] \+
+* eta[m] * k[t] * ( V[m] - k[g] * k[m] * qd[1] ) / R[m];" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "Q := [ seq( Q[i], i=1..Nq ) ];" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"QG7%,&&%$tauG6#%\"mG\"\"\"*&&%\"BG
+6#%\"rGF+-%%diffG6$-%&thetaG6#%\"tGF7F+!\"\",$*&&F.6#%#p1GF+-F26$-%&al
+phaGF6F7F+F8,$*&&F.6#%#p2GF+-F26$-%$phiGF6F7F+F8" }}}}{SECT 0 {PARA 3 
+"" 0 "" {TEXT -1 26 "Euler-Lagrange's Equations" }}{PARA 0 "" 0 "" 
+{TEXT -1 6 "For a " }{TEXT 261 1 "N" }{TEXT -1 53 "-DOF system, the La
+grange's equations can be written:" }}{PARA 0 "" 0 "" {XPPEDIT 18 0 "D
+iff(Diff(L,qdot[i]),t)-Diff(L,q[i]) = Q[i];" "6#/,&-%%DiffG6$-F&6$%\"L
+G&%%qdotG6#%\"iG%\"tG\"\"\"-F&6$F*&%\"qG6#F.!\"\"&%\"QG6#F." }{TEXT 
+-1 6 "  for " }{XPPEDIT 18 0 "i = 1" "6#/%\"iG\"\"\"" }{TEXT -1 9 " th
+rough " }{XPPEDIT 18 0 "N;" "6#%\"NG" }}{PARA 0 "" 0 "" {TEXT -1 6 "wh
+ere:" }}{PARA 0 "" 0 "" {TEXT -1 1 " " }{XPPEDIT 18 0 "Q[i]" "6#&%\"QG
+6#%\"iG" }{TEXT -1 62 "'s are special combinations of external forces \+
+and called the " }{TEXT 259 19 "generalized forces," }}{PARA 0 "" 0 "
+" {TEXT 260 1 " " }{XPPEDIT 18 0 "q[1]" "6#&%\"qG6#\"\"\"" }{TEXT -1 
+7 ", ..., " }{XPPEDIT 18 0 "q[N];" "6#&%\"qG6#%\"NG" }{TEXT -1 6 ", ar
+e " }{TEXT 278 2 "N " }{TEXT -1 69 "independent coordinates chosen to \+
+describe the system and called the " }{TEXT 262 23 "generalized coordi
+nates" }{TEXT -1 1 "," }}{PARA 0 "" 0 "" {TEXT -1 5 " and " }{XPPEDIT 
+18 0 "L;" "6#%\"LG" }{TEXT -1 8 " is the " }{TEXT 258 10 "Lagrangian" 
+}{TEXT -1 15 " of the system." }}{PARA 0 "" 0 "" {XPPEDIT 18 0 "L" "6#
+%\"LG" }{TEXT -1 15 " is defined by:" }}{PARA 0 "" 0 "" {XPPEDIT 18 0 
+"L = T - U" "6#/%\"LG,&%\"TG\"\"\"%\"UG!\"\"" }}{PARA 0 "" 0 "" {TEXT 
+-1 6 "where " }{XPPEDIT 18 0 "T" "6#%\"TG" }{TEXT -1 47 " is the total
+ kinetic energy of the system and " }{XPPEDIT 18 0 "U" "6#%\"UG" }
+{TEXT -1 42 " the total potential energy of the system." }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 51 "EOM_orig := lagrange_equations( T[T
+], V[T], q, Q ):" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 28 "this is to di
+splay the EOM's" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 126 "EOM_orig := col
+lect( EOM_orig, \{ seq( diff( q[i], t$2 ), i=1..Nq ), seq( diff( q[i],
+ t ), i=1..Nq ), seq( q[i], i=1..Nq ) \} ):" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 74 "Express th
+e Euler-Lagrange equations of motion as functions of the states:" }}
+{PARA 0 "" 0 "" {TEXT -1 57 "1) substitute (i.e. name) the acceleratio
+n states first! " }}{PARA 0 "" 0 "" {TEXT -1 39 "2) then substitute th
+e velocity states!" }}{PARA 0 "" 0 "" {TEXT -1 55 "3) and only after, \+
+the position states, and the inputs!" }}{PARA 0 "> " 0 "" {MPLTEXT 1 
+0 108 "#EOM_states := subs( subs_Xqd, subs( subs_Xqdd, EOM_orig ) ):\n
+EOM_states_acc := subs( subs_Xqdd, EOM_orig ):" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 55 "EOM_states_vel_acc := subs( subs_Xqd, EOM_stat
+es_acc ):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 58 "EOM_states := \+
+subs( subs_Xq, subs_U, EOM_states_vel_acc );" }}{PARA 12 "" 1 "" 
+{XPPMATH 20 "6#>%+EOM_statesG7%/,0*&,&*,&%\"mG6#%#p2G\"\"\"&%\"LG6#%\"
+rGF/-%$cosG6#&%\"XG6#\"\"#F/&%\"lGF-F/-%$sinG6#&F86#\"\"$F/F/*,F+F/F0F
+/-F>F6F/F;F/-F5F?F/F/F/)&F86#\"\"'F:F/F/*&,&*&,&*.F:F/F+F/F0F/F4F/F;F/
+F=F/F/*.F:F/F+F/F0F/FDF/F;F/FEF/F/F/&F86#\"\"&F/F/*&,0*.F:F/F+F/&F16#%
+#p1GF/)F4F:F/F;F/F=F/F/*,F:F/F+F/)F;F:F/FEF/F=F/!\"\"*.\"\"%F/F+F/FDF/
+FenF/)FEF:F/F4F/F/*,F:F/F+F/F4F/FenF/FDF/Ffn*.FhnF/F+F/FYF/FenF/F=F/FE
+F/F/*,F:F/F+F/FVF/F;F/F=F/Ffn*0F:F/F+F/FVF/F4F/FDF/F;F/FEF/F/F/&F86#Fh
+nF/F/F/FGF/F/*&,,F*F/FCF/**&F,FWF/&F<FWF/FDF/F0F/F/**&F,6#%\"hGF/FVF/F
+DF/F0F/F/**F+F/FVF/FDF/F0F/F/F/)FPF:F/F/*(,6*,F:F/F+F/FVF/F;F/F=F/Ffn*
+.FhnF/F+F/FVF/FYF/F;F/F=F/F/*,F:F/F+F/)FVF:F/FDF/F4F/F/*,F:F/FfoF/F`pF
+/FDF/F4F/F/*,F:F/FcoF/)FdoF:F/FDF/F4F/F/*.FhnF/F+F/FDF/FenF/FinF/F4F/F
+/*0FhnF/F+F/FVF/F4F/FDF/F;F/FEF/F/*,F:F/F+F/F4F/FenF/FDF/Ffn*.FhnF/F+F
+/FYF/FenF/F=F/FEF/F/*,F:F/F+F/FenF/FEF/F=F/FfnF/F^oF/FPF/F/*&,&*,F+F/F
+0F/FDF/F;F/F=F/F/*,F+F/F0F/F4F/F;F/FEF/FfnF/&%#XdGFHF/F/*&,,**FcoF/Fdo
+F/F4F/F0F/Ffn**FfoF/FVF/F4F/F0F/FfnF\\qFfnF[qF/**F+F/FVF/F4F/F0F/FfnF/
+&F^qFQF/F/*&,D*&FcoF/FcpF/F/*&F+F/F`pF/F/*&FfoF/F`pF/F/*,F:F/F+F/FYF/F
+enF/FinF/Ffn*(FcoF/FcpF/FYF/Ffn*(F+F/F`pF/FYF/Ffn*(FfoF/F`pF/FYF/Ffn*&
+FcoF/)F0F:F/F/*&F+F/F_rF/F/*&FfoF/F_rF/F/*,F:F/F+F/FVF/F;F/FEF/F/*0F:F
+/F+F/F4F/FenF/F=F/FDF/FEF/F/&%\"JGF2F/*(F+F/FYF/FenF/F/*(F+F/FenF/FinF
+/F/*0F:F/F+F/FVF/FDF/F4F/F;F/F=F/F/*.F:F/F+F/FVF/F;F/FEF/FYF/FfnF/&F^q
+F_oF/F/,&&%\"UG6#F/F/*&&%\"BGF2F/F^oF/Ffn/,8*,F+F/FFF/FVF/F;F/F=F/Ffn*
+0F:F/F+F/FGF/FVF/FPF/F;F/F=F/Ffn*&,&*&F+F/FenF/F/**F+F/FVF/F;F/FEF/F/F
+/F]qF/F/*&,,*,F:F/F+F/FVF/F;F/FEF/F/FhqF/FiqF/FgqF/FhsF/F/FdqF/F/*&F`q
+F/FjrF/F/*&,6*.F:F/F+F/FDF/FenF/FinF/F4F/Ffn*.F:F/F+F/FVF/FYF/F;F/F=F/
+Ffn*.F:F/F+F/FYF/FenF/F=F/FEF/Ffn**FcoF/FcpF/FDF/F4F/Ffn**F+F/F`pF/FDF
+/F4F/Ffn**FfoF/F`pF/FDF/F4F/Ffn**F+F/F4F/FenF/FDF/F/**F+F/FVF/F;F/F=F/
+F/**F+F/FenF/FEF/F=F/F/*0F:F/F+F/FVF/F4F/FDF/F;F/FEF/FfnF/)F^oF:F/F/**
+FcoF/%\"gGF/FdoF/FDF/Ffn**FfoF/F\\uF/FVF/FDF/Ffn**F+F/F\\uF/FVF/FDF/Ff
+n*,F+F/F\\uF/F4F/F;F/F=F/Ffn*,F+F/F\\uF/FDF/F;F/FEF/Ffn,$*&&FasFWF/FPF
+/Ffn/,.*,F+F/FVF/F;F/F=F/FjoF/F/*(F+F/F]qF/FenF/F/**F+F/F;F/,&F;Ffn*&F
+VF/FEF/FfnF/FdqF/Ffn**F+F/F;F/,&*(F0F/FDF/F=F/Ffn*(F0F/F4F/FEF/F/F/Fjr
+F/Ffn**F+F/F;F/,0*&FVF/F=F/Ffn*,F:F/F4F/F;F/FDF/FinF/F/*,F:F/F;F/FEF/F
+=F/FYF/F/*(F4F/F;F/FDF/Ffn*(F;F/FEF/F=F/Ffn**FVF/FDF/F4F/FEF/F/*(FVF/F
+=F/FYF/F/F/FjtF/Ffn*(F+F/F;F/,&*(F\\uF/FDF/FEF/F/*(F\\uF/F4F/F=F/F/F/F
+fn,$*&&FasF-F/FGF/Ffn" }}}{SECT 0 {PARA 0 "" 0 "" {TEXT 280 27 "Linear
+ization  in the EOM's" }{TEXT 281 1 " " }{TEXT 282 30 "of the Trigonom
+etric Functions" }}{PARA 0 "" 0 "" {TEXT -1 106 "Linearization of the \+
+equations of motion around the quiescent point of operation (in order \+
+to solve them)." }}{PARA 0 "" 0 "" {TEXT -1 82 "Here, linearization ar
+ound the zero angles, i.e. for small-amplitude oscillations." }}{PARA 
+0 "" 0 "" {TEXT -1 52 "Linearization around: alpha0 = 0, and alpha_dot
+0 = 0" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "EOM_ser := EOM_stat
+es:" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 30 88 "Generalized series expansi
+ons of the trigonometric functions is used (for small angles)." }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 208 "for i from 1 to Nq do\n  for k fro
+m 1 to Np do\n    EOM_ser[i] := subsop( 1 = convert( series( op( 1, EO
+M_ser[i] ), X[ k+1 ] ), polynom ), EOM_ser[i] );\n  end do:\n  EOM_ser
+[i] := simplify( EOM_ser[i] );\nend do:" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 8 "EOM_ser:" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{SECT 0 
+{PARA 4 "" 0 "" {TEXT -1 48 "Additional Insight: Inertia (or mass) Mat
+rix: Fi" }}{PARA 0 "" 0 "" {TEXT -1 118 "The nonlinear system of equat
+ions resulting from the Lagrangian mechanics can be written in the fol
+lowing matrix form:" }}{PARA 0 "" 0 "" {TEXT -1 59 "F( q ) . qdd + G( \+
+q, qd ) . qd + H( q ) . q = L( q, qd, u )" }}{PARA 0 "" 0 "" {TEXT -1 
+80 "F, G, and H are called, respectively, the mass, damping, and stiff
+ness matrices." }}{PARA 0 "" 0 "" {TEXT -1 27 "They are symmetric in f
+orm." }}{PARA 0 "" 0 "" {TEXT -1 101 "The inertia (a.k.a. mass) matrix
+, F, gives indications regarding the coupling existing in the system.
+" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "Fi := Matrix( Nq, Nq ):
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 198 "for i from 1 to Nq do
+\n  for k from 1 to Nq do\n    Fi[ i, k ] := simplify( diff( op( 1, EO
+M_states[i] ), Xd[k+Nq] ) );\n    Fi[ i, k ] := collect( combine( Fi[ \+
+i, k ], trig ), cos );\n  end do;\nend do:" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 12 "'F[i]' = Fi:" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+59 "Linearization of the inertia matrix for small-displacements" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 27 "Fi_lin := Matrix( Nq, Nq ):" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 233 "for i from 1 to Nq do\n  fo
+r k from 1 to Nq do\n    Fi_lin[ i, k ] := Fi[ i, k ];\n    Fi_lin[ i,
+ k ] := convert( series( Fi_lin[ i, k ], X[ 2 ] ), polynom );\n    Fi_
+lin[ i, k ] := subs( subs_XUzero, Fi_lin[ i, k ] );\n  end do; \nend d
+o:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 17 "'F_lin' = Fi_lin;" }}
+{PARA 12 "" 1 "" {XPPMATH 20 "6#/%&F_linG-%'RTABLEG6%\"*/)pA;-%'MATRIX
+G6#7%7%,**&&%\"mG6#%\"hG\"\"\")&%\"LG6#%\"rG\"\"#F4F4&%\"JGF8F4*&&F16#
+%#p2GF4F5F4F4*&&F16#%#p1GF4F5F4F4,**(FBF4&%\"lGFCF4F6F4!\"\"*(F0F4&F7F
+CF4F6F4FI*(F>F4F6F4&FHF?F4FI*(F>F4FKF4F6F4FI,$FLFI7%FE,,**F:F4F>F4FKF4
+FMF4F4*&F>F4)FMF:F4F4*&F>F4)FKF:F4F4*&F0F4FVF4F4*&FBF4)FGF:F4F4,&FSF4*
+(F>F4FKF4FMF4F47%FOFZFS%'MatrixG" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}
+}{SECT 0 {PARA 3 "" 0 "" {TEXT -1 38 "Solving the Euler-Lagrange's Equ
+ations" }}{SECT 0 {PARA 4 "" 0 "" {TEXT -1 65 "Reverse State Substitut
+ion for Pretty Display of the Solved EOM's" }}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 21 "only for pretty print" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 
+100 "subs_Xq_rev := \{ seq( X[i] = q[i], i=1..Nq ) \}:\nsubs_Xqd_rev :
+= \{ seq( X[i+Nq] = qd[i], i=1..Nq ) \}:" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 65 "#subs_U_rev := \{ U[1] = V[m] \}: \nsubs_U_rev := \{ \+
+U[1] = tau[m] \}:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 98 "eom_co
+llect_list := \{ seq( diff( q[i], t ), i=1..Nq ), seq( q[i], i=1..Nq )
+, J[r], J[p1], J[p2] \};" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%1eom_col
+lect_listG<+&%\"JG6#%#p1G&F'6#%#p2G&F'6#%\"rG-%$phiG6#%\"tG-%&alphaGF2
+-%%diffG6$F0F3-F76$F4F3-F76$-%&thetaGF2F3F=" }}}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{SECT 0 {PARA 4 "" 0 "" 
+{TEXT -1 46 "Solution to the Non-Linear Equations of Motion" }}{PARA 
+0 "" 0 "" {TEXT -1 92 "Solve the non-linear form of the equations of m
+otion for the states' second time derivatives" }}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 77 "#Xqdd_solset_nl := solve( convert( EOM_states, s
+et ), convert( Xqdd, set ) ):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 26 "#assign( Xqdd_solset_nl );" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 99 "#for i from 1 to Nq do \n#  Xd_nl[i+Nq] := simplify( \+
+Xd[i+Nq] ):\n#  unassign( 'Xd[i+Nq]' ):\n#end do:" }}}{EXCHG {PARA 0 "
+" 0 "" {TEXT -1 45 "pretty display w.r.t. the named system states" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 121 "#for i from 1 to Nq do\n# Xd_nl[i+
+Nq] := simplify( subs( subs_U_rev, subs_Xq_rev, subs_Xqd_rev, Xd_nl[i+
+Nq] ) #):\n#end do:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 95 "#for
+ i from 1 to Nq do\n#  diff( qd[i], t ) = collect( Xd_nl[i+Nq], eom_co
+llect_list );\n#end do:" }}}}{SECT 0 {PARA 4 "" 0 "" {TEXT -1 32 "Solu
+tion to the Linearized EOM's" }}{PARA 0 "" 0 "" {TEXT -1 88 "Solve the
+ linear form of the equations of motion for the states' second time de
+rivatives" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 74 "Xqdd_solset_ser
+ := solve( convert( EOM_ser, set ), convert( Xqdd, set ) ):" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 26 "assign( Xqdd_solset_ser );" 
+}}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 26 "Moreover, for small angles" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 51 "subs_avsq_list := \{ X[Nq+2]^2 = 0,
+ X[Nq+3]^2 = 0 \}:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 74 "for i
+ from 1 to Nq do\n  Xd[i+Nq] := subs( subs_avsq_list, Xd[i+Nq] );\nend
+:" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 45 "pretty display w.r.t. the na
+med system states" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 136 "for i from 1 \+
+to Nq do\n  diff( qd[i], t ) = collect( subs( subs_U_rev, subs_Xq_rev,
+ subs_Xqd_rev, Xd[i+Nq] ), eom_collect_list );\nend do:" }}}{PARA 0 "
+" 0 "" {TEXT -1 0 "" }}}}{SECT 0 {PARA 3 "" 0 "" {TEXT -1 57 "Determin
+e the System State-Space Matrices: A, B, C, and D" }}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 25 "A_ss := Matrix( Nx, Nx ):" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 47 "A_ss := deriveA( Xqdd, A_ss, Nq, subs_XUzer
+o ):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "'A' = A_ss;" }}
+{PARA 12 "" 1 "" {XPPMATH 20 "6#/%\"AG-%'RTABLEG6%\"*S\"et:-%'MATRIXG6
+#7(7(\"\"!F.F.\"\"\"F.F.7(F.F.F.F.F/F.7(F.F.F.F.F.F/7(F.**&%\"LG6#%\"r
+GF/%\"gGF/,,*,\"\"#F/&%\"mG6#%#p1GF/&%\"lGF>F/&F=6#%\"hGF/&F5F>F/F/*(F
+BF/)FEF;F/&F=6#%#p2GF/F/*&)F<F;F/)F@F;F/F/*&)FBF;F/FGF/F/*(F<F/FMF/FHF
+/F/F/,,*(F<F/FMF/&%\"JGF6F/F/*(FBF/FGF/FSF/F/*.F;F/F<F/F@F/)F4F;F/FBF/
+FEF/!\"\"**F<F/FMF/FBF/FWF/F/**FBF/FGF/F<F/FWF/F/FX,$*0F<F/F@F/F4F/FHF
+/F8F/,&FEF/F@FXF/FQFXFX,$*(&%\"BGF6F/,&*&FBF/FGF/F/*&F<F/FMF/F/F/FQFXF
+X,$**F4F/&F[oF>F/,&*&F@F/F<F/F/*&FBF/FEF/F/F/FQFXFX*,F4F/&F[oFIF/,**(F
+<F/F@F/FEF/F/*(FBF/FEF/&FAFIF/F/*(F<F/F@F/FjoF/F/F^oFXF/FjoFXFQFX7(F.*
+(F8F/,2**FWF/F@F/F<F/FHF/F/**FWF/F@F/FBF/F<F/F/**FEF/FWF/FBF/F<F/F/**F
+EF/FWF/FBF/FHF/F/*(FEF/FWF/FOF/F/*(FWF/F@F/FLF/F/*(FSF/F@F/F<F/F/*(FSF
+/FEF/FBF/F/F/FQFX,$**F8F/FHF/,(*(FWF/F@F/F<F/FX*(FEF/FWF/F<F/F/*&FSF/F
+EF/F/F/FQFXFX,$**FjnF/F4F/FboF/FQFXFX,$*(FaoF/,(FSF/*&FBF/FWF/F/*&F<F/
+FWF/F/F/FQFXFX**FfoF/,.F\\qF/*&FSF/FjoF/F/*(FWF/FjoF/FBF/F/F[qF/*(FWF/
+FjoF/F<F/F/FjpFXF/FjoFXFQFX7(F.,$**F8F/FjoFX,B*,F<F/F@F/FWF/FEF/FHF/F/
+*,FEF/FWF/FjoF/FBF/F<F/F/*,FWF/F@F/FjoF/FBF/F<F/F/**FEF/FWF/F@F/FLF/F/
+FRFX**FSF/FEF/FjoF/FBF/F/**FSF/F@F/FjoF/F<F/F/*,F<F/F@F/FWF/FBF/FEF/F/
+*(FWF/FLF/FMF/FX*,FEF/FWF/FjoF/FBF/FHF/F/**FEF/FSF/F@F/F<F/F/*,FWF/F@F
+/FjoF/F<F/FHF/F/**F<F/FMF/FWF/FHF/FXFYFX**FEF/FWF/FjoF/FOF/F/**FWF/F@F
+/FjoF/FLF/F/F/FQFXFX**F8F/FjoFX,:*.F;F/F<F/F@F/FWF/FEF/FHF/FXFRF/*.F;F
+/F<F/F@F/FWF/FBF/FEF/FXFgrFXFhrF/*,FEF/FWF/FjoF/F<F/FHF/F/**FGF/FWF/F<
+F/FHF/F/FYF/FZF/*(FSF/FGF/FHF/F/**FSF/FEF/FjoF/FHF/F/FUF/F/FQFX*,F4F/F
+joFXFjnF/FgoF/FQFX**FaoF/FjoFXFeqF/FQFX,$*,FfoF/,@FYF/FhrF/FZF/F`sF/**
+FHF/FWF/)FjoF;F/FBF/F/**FHF/FWF/FisF/F<F/F/*,F;F/FSF/FEF/FjoF/FHF/F/Fa
+sF/FUF/FRF/*(FHF/FSF/FisF/F/*.F;F/F<F/F@F/FWF/FBF/FEF/FX*.F;F/FEF/FWF/
+FjoF/F<F/FHF/F/*.F;F/F<F/F@F/FWF/FEF/FHF/FX*.F;F/FWF/F@F/FjoF/F<F/FHF/
+FXF/Fjo!\"#FQFXFHFXFX%'MatrixG" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 25 "B_ss := Matrix( Nx, Nu ):" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 47 "B_ss := deriveB( Xqdd, B_ss, Nq, subs_XUzero ):" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "'B' = B_ss;" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#/%\"BG-%'RTABLEG6%\"*/:ah\"-%'MATRIXG6#7(7#\"\"!F-
+F-7#*&,&*&&%\"mG6#%\"hG\"\"\")&%\"LG6#%#p1G\"\"#F7F7*&&F4F;F7)&%\"lGF;
+F=F7F7F7,,*(F?F7F@F7&%\"JG6#%\"rGF7F7*(F3F7F8F7FEF7F7*.F=F7F?F7FAF7)&F
+:FGF=F7F3F7F9F7!\"\"**F?F7F@F7F3F7FKF7F7**F3F7F8F7F?F7FKF7F7FM7#*(FLF7
+,&*&FAF7F?F7F7*&F3F7F9F7F7F7FCFM7#,$**&FB6#%#p2GFMFLF7,**(F?F7FAF7F9F7
+F7*(F3F7F9F7FXF7F7*(F?F7FAF7FXF7F7F>FMF7FCFMFM%'MatrixG" }}}{PARA 0 "
+" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 45 "C_ss \+
+:= IdentityMatrix( Nx, Nx ):\n'C' = C_ss;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#/%\"CG-%'RTABLEG6%\")GkQy-%'MATRIXG6#7(7(\"\"\"\"\"!F/F
+/F/F/7(F/F.F/F/F/F/7(F/F/F.F/F/F/7(F/F/F/F.F/F/7(F/F/F/F/F.F/7(F/F/F/F
+/F/F.%'MatrixG" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 40 "D_ss := M
+atrix( Nx, Nu, 0 ):\n'D' = D_ss;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/%
+\"DG-%'RTABLEG6%\")clQy-%'MATRIXG6#7(7#\"\"!F-F-F-F-F-%'MatrixG" }}}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{SECT 0 {PARA 3 "" 0 "" {TEXT -1 37 "Write A, B, C, and D to a Matlab \+
+file" }}{PARA 0 "" 0 "" {TEXT -1 61 "Save the state-space matrices A, \+
+B, C and D to a MATLAB file." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+39 "Matlab_File_Name := \"DBIP_ABCD_eqns.m\":" }}}{EXCHG {PARA 0 "" 0 
+"" {TEXT -1 96 "unassign variables, when necessary, for those present \+
+in the \"Matlab_Notations\" substitution set" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 54 "if assigned( B[r] ) then\n  unassign( 'B[r]' );\nend \+
+if;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 56 "if assigned( B[p1] )
+ then\n  unassign( 'B[p1]' );\nend if;" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 56 "if assigned( B[p2] ) then\n  unassign( 'B[p2]' );\nen
+d if;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 54 "if assigned( J[r] \+
+) then\n  unassign( 'J[r]' );\nend if;" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 56 "if assigned( J[p1] ) then\n  unassign( 'J[p1]' );\nen
+d if;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 56 "if assigned( J[p2]
+ ) then\n  unassign( 'J[p2]' );\nend if;" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 95 "substitution set containing a notation consistent with th
+at used in the MATLAB design script(s)" }}{PARA 0 "> " 0 "" {MPLTEXT 
+1 0 283 "Matlab_Notations := \{m[r] = Mr, m[p1]=Mp1, m[h] = Mh, m[p2] \+
+= Mp2, L[r] = Lr, l[p1] = lp1, l[p2] = lp2, L[p1]=Lp1, L[p2]=Lp2, J[r]
+ = Jr, J[r] = Jr, J[p1]=Jp1, J[p2]=Jp2, B[r] = Dr, B[p1] = Dp1, B[p2] \+
+= Dp2, k[t] = kt, k[m] = km, K[g] = Kg, R[m] = Rm, eta[m] = eta_m, eta
+[g] = eta_g\}:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 37 "Experimen
+t_Name := \"SRV02+DBPEN-ROT\":" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 99 "write_ABCD_to_Mfile( Matlab_File_Name, Experiment_Name, Matlab
+_Notations, A_ss, B_ss, C_ss, D_ss );" }}{PARA 6 "" 1 "" {TEXT -1 0 "
+" }}}}{SECT 0 {PARA 3 "" 0 "" {TEXT -1 18 "Procedure Printing" }}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 8 "default:" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 29 "interface( verboseproc = 1 ):" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 27 "eval( lagrange_equations ):" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {HYPERLNK 17 "Click here to go back to top: Des
+cription Section" 1 "" "Description" }{TEXT -1 1 "." }}}}{MARK "12 3 0
+ 0" 0 }{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2 33 1 1 }
+{RTABLE_HANDLES 162269804 157358140 161541504 78386428 78386556 }
+{RTABLE 
+M7R0
+I6RTABLE_SAVE/162269804X,%)anythingG6"F%[gl!"%!!!#*"$"$,.&%"JG6#%"rG"""*&&%"mG6
+#%#p2GF+&%"lGF/""##F+F3*&&F.6#%"hGF+&%"LGF)F3F+*&&F.6#%#p1GF+F9F3F+*&F-F+F9F3F+
+*(F-F+F1F3-%$cosG6#""!F+#!""F3,**(F<F+&F2F=F+F9F+FF*(F6F+&F:F=F+F9F+FF**F-F+F9F
++F1F+FAF+FF*(F-F+FKF+F9F+FF,$FLFFFG,,**F-F+FKF+F1F+FAF+F3*&F-F+FKF3F+*&F6F+FKF3
+F+*&F<F+FIF3F+F,F+,&F,F+FPF+FNFTF,F%
+}
+{RTABLE 
+M7R0
+I6RTABLE_SAVE/157358140X,%)anythingG6"F%[gl!"%!!!#E"'"'""!F&F&F&F&F&F&F&F&**&%"
+LG6#%"rG"""%"gGF,,,**&%"mG6#%#p1GF,&%"lGF2F,&F16#%"hGF,&F)F2F,""#*(F6F,F9F:&F16
+#%#p2GF,F,*&F0F:F4F:F,*&F6F:F9F:F,*(F0F,F4F:F<F,F,F,,,*(F0F,F4F:&%"JGF*F,F,*(F6
+F,F9F:FDF,F,*,F0F,F4F,F(F:F6F,F9F,!"#**F0F,F4F:F6F,F(F:F,**F6F,F9F:F0F,F(F:F,!"
+"*(F-F,,2**F(F:F4F,F0F,F<F,F,**F(F:F4F,F6F,F0F,F,**F9F,F(F:F6F,F0F,F,**F9F,F(F:
+F6F,F<F,F,*(F9F,F(F:F6F:F,*(F(F:F4F,F0F:F,*(FDF,F4F,F0F,F,*(FDF,F9F,F6F,F,F,FBF
+K,$**F-F,&F5F=FK,B*,F0F,F4F,F(F:F9F,F<F,F,*,F9F,F(F:FXF,F6F,F0F,F,*,F(F:F4F,FXF
+,F6F,F0F,F,**F9F,F(F:F4F,F0F:F,FCFK**FDF,F9F,FXF,F6F,F,**FDF,F4F,FXF,F0F,F,FGF,
+*(F(F:F0F:F4F:FK*,F9F,F(F:FXF,F6F,F<F,F,**F9F,FDF,F4F,F0F,F,*,F(F:F4F,FXF,F0F,F
+<F,F,**F0F,F4F:F(F:F<F,FKFIFK**F9F,F(F:FXF,F6F:F,**F(F:F4F,FXF,F0F:F,F,FBFKFKF&
+F&F&,$*0F0F,F4F,F(F,F<F,F-F,,&F9F,F4FKF,FBFKFK,$**F-F,F<F,,(*(F(F:F4F,F0F,FK*(F
+9F,F(F:F0F,F,*&FDF,F9F,F,F,FBFKFK**F-F,FXFK,:FZFHFCF,FGFHF]oFKF^oF,*,F9F,F(F:FX
+F,F0F,F<F,F,**F9F:F(F:F0F,F<F,F,FIF,FJF,*(FDF,F9F:F<F,F,**FDF,F9F,FXF,F<F,F,FFF
+,F,FBFKF,F&F&,$*(&%"BGF*F,,&*&F6F,F9F:F,*&F0F,F4F:F,F,FBFKFK,$**FbpF,F(F,,&*&F4
+F,F0F,F,*&F6F,F9F,F,F,FBFKFK*,F(F,FXFKFbpF,,**(F0F,F4F,F9F,F,*(F6F,F9F,FXF,F,*(
+F0F,F4F,FXF,F,FfpFKF,FBFKF&F,F&,$**F(F,&FcpF2F,FipF,FBFKFK,$*(FcqF,,(FDF,*&F6F,
+F(F:F,*&F0F,F(F:F,F,FBFKFK**FcqF,FXFK,.FioF,*&FDF,FXF,F,*(F(F:FXF,F6F,F,FhoF,*(
+F(F:FXF,F0F,F,FgoFKF,FBFKF&F&F,*,F(F,&FcpF=F,F]qF,FXFKFBFK**F_rF,FjqF,FXFKFBFK,
+$*,F_rF,,@FIF,F^oF,FJF,F]pF,**F<F,F(F:FXF:F6F,F,**F<F,F(F:FXF:F0F,F,F_pF:F^pF,F
+FF,FCF,*(F<F,FDF,FXF:F,FGFHF\pF:FZFHF]oFHF,FXFHFBFKF<FKFKF%
+}
+{RTABLE 
+M7R0
+I6RTABLE_SAVE/161541504X,%)anythingG6"F%[gl!"%!!!#'"'""""!F&F&*&,&*&&%"mG6#%"hG
+"""&%"LG6#%#p1G""#F.*&&F+F1F.&%"lGF1F3F.F.,,*(F5F.F6F3&%"JG6#%"rGF.F.*(F*F.F/F3
+F:F.F.*,F5F.F6F.&F0F<F3F*F.F/F.!"#**F5F.F6F3F*F.F@F3F.**F*F.F/F3F5F.F@F3F.!""*(
+F@F.,&*&F6F.F5F.F.*&F*F.F/F.F.F.F8FD,$**&F76#%#p2GFDF@F.,**(F5F.F6F.F/F.F.*(F*F
+.F/F.FKF.F.*(F5F.F6F.FKF.F.F4FDF.F8FDFDF%
+}
+{RTABLE 
+M7R0
+I5RTABLE_SAVE/78386428X,%)anythingG6#%)identityG6"[gl!""!!!#!"'"'F'
+}
+{RTABLE 
+M7R0
+I5RTABLE_SAVE/78386556X,%)anythingG6"F%[gl!"%!!!#'"'""""!F&F&F&F&F&F%
+}
+
