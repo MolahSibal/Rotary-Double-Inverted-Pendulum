@@ -10,7 +10,7 @@ The project follows the complete control-system development process:
 
 **First-principles modeling → Linearization → Controller design → Simulation → Hardware implementation**
 
-The nonlinear equations of motion were derived using **Lagrangian mechanics**, accounting for the kinetic and potential energy of the system, joint damping, and DC motor dynamics.
+The nonlinear equations of motion were derived using **Lagrangian mechanics**, accounting for the kinetic (translational & rotational) and potential energy of the system, joint damping, and DC motor dynamics.
 
 The nonlinear model was then linearized about the upright equilibrium and represented in state-space form:
 
@@ -42,7 +42,7 @@ Several control and state-estimation techniques were investigated, including:
 - Minimum-order observers
 - Reference tracking and integral action
 
-Controllers were first evaluated using nonlinear MATLAB simulations before being implemented on the physical Quanser system using MATLAB/Simulink and QUARC.
+Controllers were first simulated on the linear model of the plant then deployed on the real hardware to verify their performance. An example of a nonlinear model is available with the MATLAB script called "DBIP_NonlinearModel_StateFeedback.m" located in the Simulation-Software folder.
 
 ## Results
 
@@ -62,5 +62,6 @@ Rotary-Double-Inverted-Pendulum/
 ## Author
 
 **Peter Jang**  
-B.Eng. Aerospace Engineering — Avionics - University of Concordia, Montreal, Quebec 
+B.Eng. Aerospace Engineering — Avionics
 Research conducted at the University of Waterloo
+##
