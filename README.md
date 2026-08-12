@@ -42,7 +42,7 @@ Several control and state-estimation techniques were investigated, including:
 - Minimum-order observers
 - Reference tracking and integral action
 
-Controllers were first simulated on the linear model of the plant then deployed on the real hardware to verify their performance. An example of a nonlinear model is available with the MATLAB script called "DBIP_NonlinearModel_StateFeedback.m" located in the Simulation-Software folder.
+Controllers were first simulated on the linear model of the plant then deployed on the real hardware to verify their performance. A nonlinear model "DBIP_NonlinearModel_StateFeedback.m" is availble in the Simulation-Software folder.
 
 ## Results
 
@@ -55,13 +55,15 @@ A significant part of the project also involved validating the mathematical mode
 ```text
 Rotary-Double-Inverted-Pendulum/
 ├── Simulation-Software/
-├── Hardware-Implementation/
+├── HIL_Software/
 ├── Documentation/
 └── README.md
 ```
 ## Author
 
 **Peter Jang**  
+
 B.Eng. Aerospace Engineering — Avionics
+
 Research conducted at the University of Waterloo
 ##
